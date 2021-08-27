@@ -1,0 +1,12 @@
+.btn {
+    color: aqua;
+    background-color: black;
+    margin: auto;
+    width: 172px;
+    margin-top: 10px;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+}
